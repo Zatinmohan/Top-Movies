@@ -1,6 +1,11 @@
-# topmovies
+# Top 250 Movies
 
-A new Flutter project.
+A basic Flutter application that shows top 250 Movies from IMDb website.<br>
+## Libraries / Extra Assets
+- [IMDb API to get API key](https://imdb-api.com/)
+- Google Fonts
+- [Percentage Indicator](https://pub.dev/packages/percent_indicator)
+- [HTTP request](https://pub.dev/packages/http)
 
 ## Getting Started
 
