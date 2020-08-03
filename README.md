@@ -1,6 +1,9 @@
 # Top 250 Movies
 
 A basic Flutter application that shows top 250 Movies from IMDb website.<br>
+<img src = "https://user-images.githubusercontent.com/37806553/89217152-4d590f80-d5e9-11ea-9bf1-4151c7693d98.jpg" width="250" height="500">
+ 
+
 ## Libraries / Extra Assets
 - [IMDb API to get API key](https://imdb-api.com/)
 - Google Fonts
